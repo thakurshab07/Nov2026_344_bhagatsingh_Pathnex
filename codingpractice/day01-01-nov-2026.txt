@@ -1,0 +1,16 @@
+docker --version
+docker run ubuntu echo "Hello Pathnex"
+
+
+# Docker File
+FROM ubuntu:22.04
+CMD ["echo", "Hello Pathnex"]
+
+
+- name: Install nginx on Pthnex server
+ hosts: all
+ become: yes
+ tasks:
+  -name: Install nginx
+   yum:
+    name:nginx
