@@ -1,0 +1,17 @@
+Day 02 — 02 November 2026
+What I Did Today
+1 hour - Ansible — Install & Enable Nginx
+1 hour - Terraform — EC2 with Tags (r5.2xlarge)
+30 mins - English speaking
+1 hour - Kubernetes — Deployment with 2 Replicas
+1 hour - Shell Scripting — Disk Usage
+1 hour - Docker — Images & Containers
+
+
+Tomorrow's Tasks — Day 03 03 nov 2026
+1 Hour — Ansible: Install Apache & Start Service
+30 mins - English speaking
+1 Hour — Terraform: EC2 Instance (t3.medium)
+1 Hour — Kubernetes: ReplicaSet with 3 Replicas
+1 Hour — Shell Scripting: User Information
+1 Hour — Docker: Nginx Web Server using Dockerfile
